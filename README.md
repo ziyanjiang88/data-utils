@@ -7,4 +7,4 @@ Utility functions for working with Spark and Pandas.
 Install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/ziyanjiang88/my-python-utils.git
+pip install git+https://github.com/ziyanjiang88/data-utils.git
